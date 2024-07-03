@@ -1,0 +1,35 @@
+{"Personas": "Mi familia",
+"Lista":
+[{
+    "nombre": "Joaquin Garcia",
+    "numero": "22",
+    "trabajo": true,
+    "nacimiento": "2006-03-22"
+},
+{
+    "nombre": "Leonel Pavon",
+    "numero": "11",
+    "trabajo": false,
+    "nacimiento": "2005-11-05"
+},
+{
+    "nombre": "Thomas Speranza",
+    "numero": "9",
+    "trabajo": false,
+    "nacimiento": "2005-11-26"
+},
+{
+    "nombre": "Tomas Mosquera",
+    "numero": "1",
+    "trabajo": true,
+    "nacimiento": "2006-03-22"
+},
+{
+    "nombre": "Tomas Dominguez",
+    "numero": "56",
+    "trabajo": false,
+    "nacimiento": "2006-04-01"
+}
+
+]
+}
